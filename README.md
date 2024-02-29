@@ -20,14 +20,15 @@ Steps:
 4. Open the "Environment" tab.
 5. Press "Create" and enter any name in "New environment name" field and choose python 3.9.18. After this step Anaconda will create new virtual enviroment.
 6. Click the play button(▶) next to the newly created virtual environment and choose "Open in Terminal".
-7. In the terminal, you must install the necessary libraries using the following commands:
-```pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121```
-```pip install ultralytics```
-```pip install dxcam```
-```pip install pydirectinput-rgx```
-```pip install shapely```
-```pip install sahi```
-```pip install chardet```
+7. In the terminal, you must install the necessary libraries using the following commands:  <br>
+```pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121```  <br>
+```pip install ultralytics``` <br>
+```pip install dxcam``` <br>
+```pip install pydirectinput-rgx``` <br>
+```pip install shapely``` <br>
+```pip install sahi``` <br>
+```pip install chardet``` <br>
+ <br>
 8. Open the "Home" tab in  Aanaconda Navigator and install JupyterLab if it not.
 
 # Usage
