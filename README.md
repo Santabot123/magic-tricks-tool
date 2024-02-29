@@ -1,6 +1,8 @@
 # What is magic-trick-tool
 
-It`s a free demo of my ~~AI cheats~~ 🪄magic🪄. It detects persons in the specified area of the screen and directs your crosshair to the person who is closest to the crosshair.
+It`s a free demo of my ~~AI cheats~~ 🪄magic🪄. It detects persons in the specified area of the screen and directs your crosshair to the person who is closest to the crosshair. In theory, this should work in any shooter game, but in practice, you'll have to test it yourself. Сurrently the 🪄magic🪄 works in in Fortnite, PUBG, and Apex Legends
+
+![f](https://github.com/Santabot123/magic-tricks-tool/assets/56690519/61458ba0-acc2-4021-bf61-055326fb9385)
 
 # Minimum system requirements
 - OS: Windows 10/11 64-bit
@@ -33,22 +35,27 @@ Steps:
 1.Launch your game; go to settings and switch full screen to window mode.
 2. Open the "Home" tab in  Aanaconda Navigator and launch JupyterLab.
 3. In JupyterLab find folder where you saved this repository and open ```run.ipynb```
-4. Run it by clicking run all sells button next button (⏩). 
+4. Run it by clicking run all cells button next button (⏩). 
 5. Now you should go into your game and try it!!!
 6. 🪄Magic🪄 would be active only while Right mouse button is preessed (of you whant to change it-read **Fine-tuning** paragraph).
 
 To stop program you can press "Restart the kernel" button ( ⟳) or F1 button.
 
 ### Fine-tuning
-If you want to change some settings go to ```run.ipynb``` and find 𝙐𝙎𝙀𝙍 𝘾𝙊𝙉𝙁𝙄𝙂 section.
+If you want to change some settings for fine tuning, go to ```run.ipynb``` and find 𝙐𝙎𝙀𝙍 𝘾𝙊𝙉𝙁𝙄𝙂 section.
 - To change the area for target detection modify LEFT, TOP, RIGHT, BOTTOM parameters.
 - To change the key that should be pressed to activate 🪄magic🪄 modify ACTIVATE_KEY (you can also make it always active by changing ALWAYS_ACTIVE=False to ALWAYS_ACTIVE=True)
 - To change speed of your crosshair modify SCALE variable 
-- Tou can also choose where to aim if 
-
+- You can also choose where to aim(head/body/random)
+- You can also try to enable sahi - this will improve the recognition of small objects, but it will greatly reduce the number of frames it can process in one second
 
 
 # Demonstration of work
+
+https://github.com/Santabot123/magic-tricks-tool/assets/56690519/0e67ceb4-cf11-44f0-9121-3aaf655f21af
+
+
+
 
 
 
