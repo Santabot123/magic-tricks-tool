@@ -1,6 +1,6 @@
 # What is magic-trick-tool
 
-It`s a free demo of my ~~AI cheats~~ 🪄magic🪄. It detects persons in the specified area of the screen and directs your crosshair to the person who is closest to the crosshair. In theory, this should work in any shooter game, but in practice, you'll have to test it yourself. Сurrently the 🪄magic🪄 works in in Fortnite, PUBG, and Apex Legends.
+It`s a free demo of my ~~AI cheats~~ 🪄magic🪄. It detects persons in the specified area of the screen and directs your crosshair to the person who is closest to the crosshair. In theory, this should work in any shooter game, but in practice, you'll have to test it yourself. Сurrently the 🪄magic🪄 tested in in Fortnite, PUBG, and Apex Legends.
 
 ![f](https://github.com/Santabot123/magic-tricks-tool/assets/56690519/61458ba0-acc2-4021-bf61-055326fb9385)
 
