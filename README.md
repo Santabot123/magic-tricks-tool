@@ -32,13 +32,13 @@ Steps:
 
 # Usage
 
-1.Launch your game; go to settings and switch full screen to window mode.
-2. Open the "Home" tab in  Aanaconda Navigator and launch JupyterLab.
-3. In JupyterLab find folder where you saved this repository and open ```run.ipynb```
-4. Run it by clicking run all cells button next button (⏩). 
-5. Now you should go into your game and try it!!!
-6. 🪄Magic🪄 would be active only while Right mouse button is preessed (of you whant to change it-read **Fine-tuning** paragraph).
-
+1.Launch your game; go to settings and switch full screen to window mode. <br>
+2. Open the "Home" tab in  Aanaconda Navigator and launch JupyterLab. <br>
+3. In JupyterLab find folder where you saved this repository and open ```run.ipynb```. <br>
+4. Run it by clicking run all cells button next button (⏩). <br>
+5. Now you should go into your game and try it!!! <br>
+6. 🪄Magic🪄 would be active only while Right mouse button is preessed (of you whant to change it-read **Fine-tuning** paragraph). <br>
+<br>
 To stop program you can press "Restart the kernel" button ( ⟳) or F1 button.
 
 ### Fine-tuning
@@ -47,7 +47,7 @@ If you want to change some settings for fine tuning, go to ```run.ipynb``` and f
 - To change the key that should be pressed to activate 🪄magic🪄 modify ACTIVATE_KEY (you can also make it always active by changing ALWAYS_ACTIVE=False to ALWAYS_ACTIVE=True)
 - To change speed of your crosshair modify SCALE variable 
 - You can also choose where to aim(head/body/random)
-- You can also try to enable sahi - this will improve the recognition of small objects, but it will greatly reduce the number of frames it can process in one second
+- You can also try to enable sahi - this will improve the recognition of small objects, but it will significantly reduce the number of frames it can process in one second
 
 
 # Demonstration of work
