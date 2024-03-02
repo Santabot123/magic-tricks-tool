@@ -39,7 +39,7 @@ Steps:
 3. In JupyterLab find folder where you saved this repository and open ```run.ipynb```. <br>
 4. Run it by clicking run all cells button next button (⏩). <br>
 5. Now you should go into your game and try it!!! <br>
-6. 🪄Magic🪄 would be active only while Right mouse button is preessed (of you whant to change it-read **Fine-tuning** paragraph). <br>
+6. 🪄Magic🪄 would be active only while Right mouse button is preessed (if you whant to change it-read **Fine-tuning** paragraph). <br>
 <br>
 To stop program you can press "Restart the kernel" button ( ⟳) or F1 button.
 
