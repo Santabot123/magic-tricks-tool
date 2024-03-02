@@ -18,7 +18,7 @@ Steps:
 1. Download this repository and unzip it.
 2. Install  [Anaconda](https://www.anaconda.com/download).
 3. Open Aanaconda Navigator.
-4. Open the "Environment" tab.
+4. Open the "Environments" tab.
 5. Press "Create" and enter any name in "New environment name" field and choose python 3.9.18. After this step Anaconda will create new virtual enviroment.
 6. Click the play button(▶) next to the newly created virtual environment and choose "Open in Terminal".
 7. In the terminal, you must install the necessary libraries using the following commands:  <br>
