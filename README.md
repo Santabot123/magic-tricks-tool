@@ -1,4 +1,4 @@
-# What is magic-trick-tool
+# What is magic-tricks-tool
 
 It`s a free demo of my ~~AI cheats~~ 🪄magic🪄. It detects persons in the specified area of the screen and directs your crosshair to the person who is closest to the crosshair. In theory, this should work in any shooter game, but in practice, you'll have to test it yourself. Сurrently the 🪄magic🪄 tested in in Fortnite, PUBG, and Apex Legends.
 
@@ -12,7 +12,8 @@ It`s a free demo of my ~~AI cheats~~ 🪄magic🪄. It detects persons in the sp
 **Note:** Minimum system requirements may vary depending on the game in which you will use 🪄magic🪄.
 
 # Installation 
-Video guide: 
+Video guide: https://youtu.be/c5HFZIJQ_N0 <br>
+<br>
 Steps:
 1. Download this repository and unzip it.
 2. Install  [Anaconda](https://www.anaconda.com/download).
