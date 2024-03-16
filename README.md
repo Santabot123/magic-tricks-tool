@@ -14,7 +14,7 @@ It`s a free demo of my ~~AI cheats~~ 🪄magic🪄. It detects persons in the sp
 # Installation 
 Video guide:
 <br>
-Steps:
+Steps from video:
 1. Download this repository and unzip it.
 2. Install  [Anaconda](https://www.anaconda.com/download).
 3. Open Aanaconda Navigator.
