@@ -29,7 +29,7 @@ Steps from video:
 1.Launch your game; go to settings and switch full screen to window mode. <br>
 2. Open the "Home" tab in  Anaconda Navigator and launch JupyterLab.(Each time at a new launch, select in Anaconda Navigator exactly the same environment that you created. ) <br>
 3. In JupyterLab find folder where you saved this repository and open ```UI.ipynb``` <br>
-4. Run it by clicking run all sells button next button {⏩}(The first run will take much longer than usual because all the necessary libraries need to be loaded) <br>
+4. Run it by clicking run all sells button {⏩}(The first run will take much longer than usual because all the necessary libraries need to be loaded) <br>
 5. After that a new settings window should open. <br>
 6. To start the Magic press the RUN button  <br>
 7. Now you should go into your game and try it!!!<br>
