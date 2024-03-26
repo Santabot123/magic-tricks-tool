@@ -39,7 +39,7 @@ Steps from video:
 <br>
 
 ## Fine-tuning
-When you hover over the settings menu item, you can read what it means.
+When you hover over the settings menu item, you can read what it means. <br>
 **Note:**
 - To change the area for target detection modify LEFT, TOP, RIGHT, BOTTOM parameters(if you run run.ipynb in the ```show_area``` section, you will see a screenshot of your screen with a rectangle that defines the area in which targets will be detected).
 - Adjust the detection area in such a way that the image of your character does not get there, if it does get there, it can lead to the fact that the crosshair will always move in the same direction.
