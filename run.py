@@ -321,7 +321,7 @@ def run_loop():
             if FPS: 
                 display('FPS: '+str(1/(time.time()-start+0.0015)) )
                 frames_counter+=1
-                all_time+=1/(time.time()-start)
+                all_time+=1/(time.time()-start+0.0015)
                 display('Avg FPS: '+str(all_time/frames_counter)) 
 
 
